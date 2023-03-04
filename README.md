@@ -11,6 +11,13 @@
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+
+
 
 <!--
 **AlmondBreez3/AlmondBreez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
