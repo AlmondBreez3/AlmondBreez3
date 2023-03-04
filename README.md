@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 
 <!--
 **AlmondBreez3/AlmondBreez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
