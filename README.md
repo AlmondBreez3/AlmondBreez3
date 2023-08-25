@@ -38,6 +38,7 @@
 <li>방구석 셰프를 위한 쉽고 재미있는 숏폼 레시피 구독 서비스- Recipeasy FE(2022) • FE <sub>(2022.12 ~ )</sub></li>
 <li>모두를 위한 공연 라이프 - <a href="https://github.com/Gosrock/DuDoong-Front">두둥</a>(Dudoong) • FE <sub>(2023.01 ~ )</sub></li>
 <li>홍익대학교 멋쟁이 사자처럼 • 11기 BE <sub>(2023.03 ~)</sub></li>
+ <li>홍익대학교 UMC • BE 운영진 <sub>(2023.08 ~)</sub></li>
 </h6>
 
 
