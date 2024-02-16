@@ -33,7 +33,7 @@
 <li>모두를 위한 공연 라이프 - <a href="https://github.com/Gosrock/DuDoong-Front">두둥</a>(Dudoong) • FE <sub>(2023.01 ~ )</sub></li>
 <li>홍익대학교 멋쟁이 사자처럼 • 11기 BE <sub>(2023.03 ~)</sub></li>
  <li>홍익대학교 UMC • BE 운영진 <sub>(2023.08 ~)</sub></li>
- <li> <a href="https://github.com/Central-MakeUs">CMC(Central Makeus Challenge)</a> • 14th Server 
+ <li> <a href="https://github.com/Central-MakeUs">CMC(Central Makeus Challenge)</a> • 14th Server <a href="https://github.com/Central-MakeUs/Youngduck-Server">팝콘메이트</a>  • BE <sub>(2024.01~)</sub>
 </h6>
 
 
