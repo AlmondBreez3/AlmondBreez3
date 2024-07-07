@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning ...
 <h6>.•✧ Main Stack</h6>
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
@@ -17,6 +15,8 @@
 
 <h6>.•✧ 𝘴𝘵𝘶𝘥𝘪𝘦𝘥 𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘰𝘯𝘤𝘦</h6>
 <p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
