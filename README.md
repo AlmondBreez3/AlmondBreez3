@@ -86,10 +86,13 @@
 [![Hanbee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmondBreez3)](https://github.com/AlmondBreez3/github-readme-stats)
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/AlmondBreez3"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AlmondBreez3&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/AlmondBreez3"
+  width="600"
+  height="300"
+/>
 </a>
-
 
 <!--
 **AlmondBreez3/AlmondBreez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
