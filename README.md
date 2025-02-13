@@ -86,7 +86,9 @@
 [![Hanbee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmondBreez3)](https://github.com/AlmondBreez3/github-readme-stats)
 </div>
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/AlmondBreez3"/>
+</a>
 
 
 <!--
